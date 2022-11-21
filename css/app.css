@@ -1,0 +1,24 @@
+.boder{
+    border-radius: 20px!important;
+}
+.fondo{
+    background: url(../blob.svg);
+    background-repeat: no-repeat;
+}
+.border__puntos{
+    border: 1px dashed cadetblue!important;
+    padding: 2px!important;
+}
+.carousel-indicators [data-bs-target] {
+    margin-top: 30px;
+    background-color: cadetblue;
+}
+.icon__left{
+ color:gray;
+ font-size: 30px;
+}
+@media (max-width: 700px) {
+    .full{
+     width: 100%!important;
+    }
+}
